@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ChartView">
+        <attr name="IFV_barSize" format="reference|dimension" />
+        <attr name="IFV_bar1Color" format="reference|color" />
+        <attr name="IFV_bar2Color" format="reference|color" />
+        <attr name="IFV_bar1StatusText" format="string" />
+        <attr name="IFV_bar2StatusText" format="string" />
+    </declare-styleable>
+
+</resources>

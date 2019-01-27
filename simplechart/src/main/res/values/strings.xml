@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleChart</string>
+    <string name="chart_scale_value"> %1$s  %2$s</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_spacing">29dp</dimen>
+    <dimen name="top_spacing">30dp</dimen>
+    <dimen name="layout_spacing">59dp</dimen>
+</resources>
